@@ -1,0 +1,1 @@
+net use z:\\servidor\pasta1
